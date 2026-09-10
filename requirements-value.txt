@@ -1,0 +1,10 @@
+# 独立价值选股环境，不安装现有预测程序及 Qt。
+akshare>=1.18.81,<1.20
+baostock>=0.9.3,<0.10
+pandas>=2.2,<4
+openpyxl>=3.1.5,<4
+jsonschema>=4.23,<5
+requests>=2.32,<3
+pypdf>=5,<7
+pytest>=8.3,<10
+tzdata>=2025.1
